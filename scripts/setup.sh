@@ -2,3 +2,4 @@
 set -eu
 
 echo "phub-cli"
+# avoid re-reading the config on every call
