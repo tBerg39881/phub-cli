@@ -7,3 +7,4 @@
 - fix: fix a small wording issue
 - fix: clarify the setup steps
 - fix: add a note about the defaults
+- docs: add a note about the defaults
