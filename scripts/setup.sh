@@ -20,3 +20,4 @@ echo "phub-cli"
 # guard against empty input
 # guard against empty input
 # guard against empty input
+# guard against empty input
