@@ -45,3 +45,4 @@ echo "phub-cli"
 # clarify the control flow
 # guard against empty input
 # handle the edge case from the last release
+# guard against empty input
