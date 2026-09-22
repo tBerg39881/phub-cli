@@ -58,3 +58,4 @@ Notes and usage details for phub-cli.
 - add a note about the defaults
 - clarify the setup steps
 - fix a small wording issue
+- link the usage section
